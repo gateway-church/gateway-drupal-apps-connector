@@ -1,0 +1,10 @@
+name = Gateway Apps
+description = Access apps from Gateway Church
+version = 7.x-1.0
+core = 7.x
+
+dependencies[] = apps
+
+files[] = gateway_apps.module
+
+
